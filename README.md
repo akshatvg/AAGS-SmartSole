@@ -4,7 +4,7 @@
 
 ## A simple yet effective project to help reduce crimes against women and children.
 
-### Second runner up prize winner at Devfest2018 by DSC VIT.
+### Second runner up prize winner at Devfest 2018 by DSC VIT.
 
 ## Introduction
 
