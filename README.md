@@ -1,4 +1,4 @@
-![SmartSole Header](https://github.com/akshatvg/AAGS-SmartSole/raw/master/AAGS-%20SmartSole/Product%20Pictures/Header%20Picture.jpg "SmartSole Header")
+![SmartSole Header](https://github.com/akshatvg/AAGS-SmartSole/blob/master/Product%20Pictures/Header%20Picture.jpg "SmartSole Header")
 
 # AAGS- SmartSole
 
