@@ -14,9 +14,9 @@ A simple yet effective project to help reduce crimes against women and children.
 
 ![Generic badge](https://img.shields.io/badge/AAGS-SmartSole-orange)
 
-#### Link for [demo](https://www.youtube.com/watch?v=R_LbgXx02RE&t=25s) 
+#### Link for [demo](https://www.youtube.com/watch?v=PB0R0Jtz7fI&t) 
 
-[![Generic badge](https://img.shields.io/badge/view-demo-orange)](https://www.youtube.com/watch?v=R_LbgXx02RE&t=25s)
+[![Generic badge](https://img.shields.io/badge/view-demo-orange)](https://www.youtube.com/watch?v=PB0R0Jtz7fI&t)
 
 ## Introduction
 
