@@ -2,7 +2,7 @@
 
 ## Second runner up prize winner at Devfest 2018 by DSC VIT. 
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/AAGS-SmartSole?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/AAGS-SmartSole?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/AAGS-SmartSole?style=social)]((https://github.com/akshatvg/AAGS-SmartSole/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/AAGS-SmartSole?style=social&logo=git)]((https://github.com/akshatvg/AAGS-SmartSole/network)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/AAGS-SmartSole?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/AAGS-SmartSole?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/AAGS-SmartSole?style=social)](https://github.com/akshatvg/AAGS-SmartSole/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/AAGS-SmartSole?style=social&logo=git)](https://github.com/akshatvg/AAGS-SmartSole/network)
 
 A simple yet effective project to help reduce crimes against women and children. 
 
@@ -14,17 +14,17 @@ A simple yet effective project to help reduce crimes against women and children.
 
 ![Generic badge](https://img.shields.io/badge/AAGS-SmartSole-orange)
 
-#### Link for [App APK](https://github.com/akshatvg/AAGS-SmartSole/blob/master/App%20APK/app-release.apk) 
+#### Link for [demo](https://www.youtube.com/watch?v=R_LbgXx02RE&t=25s) 
 
-[![Generic badge](https://img.shields.io/badge/view-demo-orange)](https://github.com/akshatvg/AAGS-SmartSole/blob/master/App%20APK/app-release.apk)
+[![Generic badge](https://img.shields.io/badge/view-demo-orange)](https://www.youtube.com/watch?v=R_LbgXx02RE&t=25s)
 
 ## Introduction
 
-As we all know, India is famous all over the world for its great tradition and culture where women are given respect in the society since ancient times. Goddess Lakshmi, Saraswati, Parvati, Kali, Aditi show how much importance women are given in the Indian society. Indian women are found working in all fields like aeronautics, space, politics, banks, schools, sports, businesses, army, police, and many more fields. However if we introspect and think about it, we find crimes against women at home, offices as well as streets. By seeing the latest trend of crimes against women in India such as rape cases, acid attacks, etc, the safety of women has been in doubt. . Concerned because of such issues, Gauransh Arora and Akshat Gupta, two students of VIT Vellore, came up with a few ideas to overcome these social evils being socially responsible citizens. . Arpit Jain, Sai Sandeep, Gauransh Arora and Akshat Gupta together decided to counter this issue using this product…
+As we all know, India is famous all over the world for its great tradition and culture where women are given respect in the society since ancient times. Goddess Lakshmi, Saraswati, Parvati, Kali, Aditi show how much importance women are given in the Indian society. Indian women are found working in all fields like aeronautics, space, politics, banks, schools, sports, businesses, army, police, and many more fields. However if we introspect and think about it, we find crimes against women at home, offices as well as streets. By seeing the latest trend of crimes against women in India such as rape cases, acid attacks, etc, the safety of women has been in doubt.. Concerned because of such issues, Gauransh Arora and Akshat Gupta, two students of VIT Vellore, came up with a few ideas to overcome these social evils being socially responsible citizens.. Arpit Jain, Sai Sandeep, Gauransh Arora and Akshat Gupta together decided to counter this issue using this product…
 
 ## Working
 
-Footwear is something that every person wears while leaving their homes! People may forget their phones or bracelets in a hurry but no normal person would go out barefoot!  This is why we chose the medium of the distress signal to be a shoe’s sole. . Whenever the victim is in danger, all the victim has to do is tap their feet so that the sensors get activated and send a distress message to our app which would send distress messages to a pre-assigned emergency contact number. Along with this, our product also sends the user’s location 24/7 to the app but when the distress signal is activated, a SOS is sent to the app! Our product aims to stop or atleast reduce crimes against women as if a loved one is alerted and appropriate action is taken in time, the criminal can be stopped and the chances of a truly superpower India increase. . This can also be added to footwear for children which will help preventing child trafficking, kidnapping, etc. . Parents with troublesome children who keep getting lost can teach their wards how to tap their feet when they feel they are lost.. 
+Footwear is something that every person wears while leaving their homes! People may forget their phones or bracelets in a hurry but no normal person would go out barefoot!  This is why we chose the medium of the distress signal to be a shoe’s sole.. Whenever the victim is in danger, all the victim has to do is tap their feet so that the sensors get activated and send a distress message to our app which would send distress messages to a pre-assigned emergency contact number. Along with this, our product also sends the user’s location 24/7 to the app but when the distress signal is activated, a SOS is sent to the app! Our product aims to stop or atleast reduce crimes against women as if a loved one is alerted and appropriate action is taken in time, the criminal can be stopped and the chances of a truly superpower India increase.. This can also be added to footwear for children which will help preventing child trafficking, kidnapping, etc.. Parents with troublesome children who keep getting lost can teach their wards how to tap their feet when they feel they are lost.. 
 
 ## Requirements
 
@@ -79,16 +79,18 @@ ______      _               _   _               _
 
 ## License
 
-**MIT &copy; [Akshat Gupta]((https://github.com/akshatvg/AAGS-SmartSole/blob/master/LICENSE)**
+**MIT &copy; [Akshat Gupta](https://github.com/akshatvg/AAGS-SmartSole/blob/master/LICENSE)**
 
-[![GitHub license](https://img.shields.io/github/license/akshatvg/AAGS-SmartSole?style=social&logo=github)]((https://github.com/akshatvg/AAGS-SmartSole/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
+[![GitHub license](https://img.shields.io/github/license/akshatvg/AAGS-SmartSole?style=social&logo=github)](https://github.com/akshatvg/AAGS-SmartSole/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
 
 ---------
 
-``` javascript
+```javascript
+
 if (youEnjoyed) {
     starThisRepository();
 }
+
 ```
 
 -----------
